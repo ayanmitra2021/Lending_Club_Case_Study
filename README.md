@@ -18,17 +18,17 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- The lending club should prefer giving loans to those who have their own house than people renting houses or having a mortgage on their home. 
-- Although, the number of loan-takers are more in this category, the lending club should pay caution while disbursing loan to people in this income range
-- Although, the number of loan-takers are more with the rate of interest between 11% to 15%, but we can see the count from other categories is still higher. 
+- The lending club should prefer giving loans to those who have their own house than people renting houses or having a mortgage on their home
+- Although, the number of loan-takers are more in lower-middle income category, the lending club should pay caution while disbursing loan to people in this income range
+- Although, the number of loan-takers are more with the rate of interest between 11% to 15%, but we can see the count from other categories is still higher
 - The lending club can be cautious deciding the rate of interest for loan-takers in the income category 
-- The results are a bit contradictory. It seems people with a smaller installment to pay are tending to default on their loan more than people with bigger installment to pay
+- The results are a bit contradictory when it comes installment payment amount. It seems people with a smaller installment to pay are tending to default on their loan more than people with bigger installment to pay
 - The lending club should recalibrate their installment payment formulas so that it stands >$600 per month
 - Loan takers who typically pay a lower monthly installment with an interest rate between 10% to 17% are defaulting on their loan more than the rest of the group
 - The loan term doesn’t seem to have an impact on defaulting a loan
-- The lending club must be very careful granting loans to unemployed 
+- The lending club must be very careful granting loans to unemployed people
 - The lending club must pay caution while lending loans to those people who employers are in Defense, Retail, or Postal service
-- While the population of defaulters is largest in 10+ years employment length category, it is obvious that people are taking and defaulting on loan if they have <1 year of service. 
+- While the population of defaulters is largest in 10+ years employment length category, it is obvious that people are taking and defaulting on loan if they have <1 year of service
 - The lending club need to pay caution while lending loans to people with <1 year of employment
 - People with 6 to 9 years of employment length tend to be defaulting less on their loan
 - The lending club need to very careful while lending loan to those who are taking it for debit consolidation 
