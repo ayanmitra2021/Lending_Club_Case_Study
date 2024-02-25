@@ -18,7 +18,7 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-# Defaulters 
+### Defaulters 
 - The lending club should prefer giving loans to those who have their own house than people renting houses or having a mortgage on their home
 - Although, the number of loan-takers are more in lower-middle income category, the lending club should pay caution while disbursing loan to people in this income range
 - Although, the number of loan-takers are more with the rate of interest between 11% to 15%, but we can see the count from other categories is still higher
@@ -37,11 +37,11 @@
 - The installment amount is also correlated with annual income of the person
 - The lending club must use a scoring mechanism (like credit rating) before granting a loan to its members 
 
-# Current loans 
-- 76% to 99% of all lend loan is already collected which is a good indication
-- The outstanding amount to funded amount and late fee to funded amount ratios within 0%-25% indicates a low risk profile
+### Current loans 
+- 76% to 99% of all lended loan is already collected which is a good indication
+- The outstanding amount to funded amount and late fee to funded amount ratios are within 0%-25% indicating a low risk profile for the lending club
 - It seems borrower has paid off all accrued interest charges up to the current date. This suggests that the borrower is making timely and sufficient payments to cover both the principal amount and the interest charges, which is a positive indicator of loan performance
-- It seems borrowers who are paying an installment amount <=$600 are being delinquent at least once. The lending club may communicate the late /delinquency fee policies to such borrowers 
+- It seems borrowers who have been delinquent at least once in the past 2 years are a majority paying less than $600 in installment. As a proactive measure, the lending club may communicate the late /delinquency fee policies to borrowers who typically pays less than $600 as monthly installment
 
 
 
