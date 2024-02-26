@@ -43,6 +43,10 @@
 - It seems borrower has paid off all accrued interest charges up to the current date. This suggests that the borrower is making timely and sufficient payments to cover both the principal amount and the interest charges, which is a positive indicator of loan performance
 - It seems borrowers who have been delinquent at least once in the past 2 years are a majority paying less than $600 in installment. As a proactive measure, the lending club may communicate the late /delinquency fee policies to borrowers who typically pays less than $600 as monthly installment
 
+### Fully paid loans 
+- About 82% of all borrowers in each home ownership category have paid off their loans, which is consistent.
+- Greater than 80% of all borrowers in each employment length category have paid off their loans, which also seems to be consistent. 
+- A revolving line utilization rate typically denotes the ratio of a person's credit debt to their total credit limit. We can see, the median of the revolving line utilization rate for the fully paid and current loans are almost same, however it is much higher for the charged off loans. As a result the lending club may pay caution while granting loan to those borrowers whose revolving line utilization rate is higher than 50%, because they are most likely become defaulters.
 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
