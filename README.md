@@ -36,7 +36,7 @@
 - The lending club need to very careful while determining the loan amount and the installment amount 
 - The installment amount is also correlated with annual income of the person
 - The lending club must use a scoring mechanism (like credit rating) before granting a loan to its members 
-- There is a large number of defaulters with a zero revolving balance has taken for debt consolidation which seems obvious. But it seems a large number of defaulters with zero revolving balance also falls into the category of home improvement, major purchase, and small business. This may indicate the lending club to check purpose the borrowers are taking the loan and their revolving balance at the time of taking the loan, and accordingly grant or reject the loan request. 
+- There is a large number of defaulters with a zero revolving balance has taken the loan for debt consolidation which seems obvious. But it seems a large number of defaulters with zero revolving balance also falls into the category of home improvement, major purchase, and small business. This may indicate the lending club to check purpose of  the loan and the borrowers revolving balance at the time of taking the loan, and accordingly grant or reject the loan application
 
 
 ### Current loans 
