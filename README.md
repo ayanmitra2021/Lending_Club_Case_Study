@@ -49,6 +49,7 @@
 - About 82% of all borrowers in each home ownership category have paid off their loans, which is consistent.
 - Greater than 80% of all borrowers in each employment length category have paid off their loans, which also seems to be consistent. 
 - A revolving line utilization rate typically denotes the ratio of a person's credit debt to their total credit limit. We can see, the median of the revolving line utilization rate for the fully paid and current loans are almost same, however it is much higher for the charged off loans. As a result the lending club may pay caution while granting loan to those borrowers whose revolving line utilization rate is higher than 50%, because they are most likely become defaulters.
+- The number of credit lines a borrower typically represents depends on the type of borrowing. E.g. One loan: One credit line for the specific loan amount. Several credit lines may not lead to a loan rejection, but the lending club must consider this during the loan approval process. Having 10+ credit lines suggests the borrower has access to a significant amount of credit. The Lending Club should be concerned that the borrower is already stretched financially and adding another loan could increase the risk of default.
 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
@@ -62,6 +63,10 @@
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
+## Acknowledgements
+https://www.investopedia.com/terms/l/lineofcredit.asp
+https://www.investopedia.com/personal-loan-vs-home-improvement-loan-7553150
+https://www.forbes.com/advisor/in/loans/types-of-loans/
 
 ## Contact
 Created by [@ayanmitra2021] - feel free to contact me!
