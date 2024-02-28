@@ -40,6 +40,7 @@
 
 
 ### Current loans 
+- There are at least 122 current loan accounts that can become default if the borrower continues paying the same installment amount. Most of the possible default amount will be in the range of $1 to $10. But there are accounts which may become defaulted by up to $80. The lending club must reach out to these customers and urge to be payoff any unpaid installments.  
 - 76% to 99% of all lended loan is already collected which is a good indication
 - The outstanding amount to funded amount and late fee to funded amount ratios are within 0%-25% indicating a low risk profile for the lending club
 - It seems borrower has paid off all accrued interest charges up to the current date. This suggests that the borrower is making timely and sufficient payments to cover both the principal amount and the interest charges, which is a positive indicator of loan performance
